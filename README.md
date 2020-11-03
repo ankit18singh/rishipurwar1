@@ -5,8 +5,8 @@
 
 ## I'm a Fullstack Web Developer and Content Creator!!
 
-- 🌱 I’m currently working on my side project 🤑
-- I’m currently learning React Native
+- 💻 I’m currently working on my side project 🤑
+- ✍ I’m currently learning React Native
 
 ### Connect with me:
 
