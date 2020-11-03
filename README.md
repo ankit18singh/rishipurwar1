@@ -1,7 +1,7 @@
 ### Hi there, I'm Rishi Purwar 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thefierycoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=thefierycoder)
-[![Youtube Channel](https://img.shields.io/website?label=SUBSCRIBE&url=https%3A%2F%2Fwww.youtube.com/channel/UCLEaHYQmjtEi0YAf5crUZZQ&color=#FF0000&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCLEaHYQmjtEi0YAf5crUZZQ)
+[![Youtube Channel](https://img.shields.io/website?label=SUBSCRIBE&url=https%3A%2F%2Fwww.youtube.com/channel/UCLEaHYQmjtEi0YAf5crUZZQ&style=for-the-badge&color=#FF0000&logo=youtube)](https://www.youtube.com/channel/UCLEaHYQmjtEi0YAf5crUZZQ)
 
 ## I'm a Fullstack Web Developer and Content Creator!!
 
