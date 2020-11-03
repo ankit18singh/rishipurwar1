@@ -53,5 +53,5 @@
 
 <!-- --- -->
 
-[twitter]: https://twitter.com/intent/follow
+[twitter]: https://twitter.com/thefierycoder
 [youtube]: https://www.youtube.com/channel/UCLEaHYQmjtEi0YAf5crUZZQ/videos
