@@ -11,8 +11,6 @@
 
 - - 👯 I’m looking to collaborate on [codingspace](https://github.com/rishipurwar1/coding-space)
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rishipurwar1](https://github.com/rishipurwar1)
 
 - 📝 I write articles on [https://thefierycoder.hashnode.dev/](https://thefierycoder.hashnode.dev/)
